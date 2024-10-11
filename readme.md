@@ -21,3 +21,8 @@ python task3.py values.json tests.json report.json
 cd task4
 python task4.py numbers.txt
 ```
+
+Запуск всех тестов в проекте
+```
+python -m unittest
+```
